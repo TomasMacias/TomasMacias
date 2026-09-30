@@ -60,5 +60,3 @@ Experiencia práctica en desarrollo web con React, TypeScript, Next.js, Node.js 
 | sept 2023 - abr 2026 | Bookker | Gestión y entorno laboral | Java, Spring Boot, Primefaces, PostgreSQL, MySQL |
 | feb 2022 - sept 2023 | Minsait | Administración pública | Java, JSP, Oracle SQL, Pros@ | Software Technician
 | ene 2021 - feb 2022 | NTT DATA Europe & LATAM | Sector energético | Java, Spring Boot, Angular 8, Mockito, Oracle SQL, TypeScript |
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/TomasMacias/TomasMacias/snake-output/snake.svg" alt="Snake animation" />
