@@ -51,58 +51,6 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40" alt="tailwind logo"  />
 </div>
-
-<div align="center">
-
-  <!-- GRUPO SOLUTIA -->
-  <table>
-    <tr>
-      <td>
-        <h3>Grupo Solutia</h3>
-        <p><strong>Analista Programador</strong></p>
-        <p>📅 Mayo 2026 - Actualidad</p>
-
-        <strong>Modernización del proyecto</strong>
-        <p>
-          <img src="https://img.shields.io/badge/Java_25-orange?logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/Arquitectura_Hexagonal-blue" />
-          <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white" />
-          <img src="https://img.shields.io/badge/JUnit_5-green?logo=junit5&logoColor=white" />
-          <img src="https://img.shields.io/badge/Mockito-78A641" />
-          <img src="https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white" />
-          <img src="https://img.shields.io/badge/Microsoft_Copilot-5555FF" />
-        </p>
-
-        <strong>Etapa anterior · Mayo 2026 - Octubre 2026</strong>
-        <p>
-          <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/JSP-blue" />
-          <img src="https://img.shields.io/badge/Oracle_SQL-red?logo=oracle&logoColor=white" />
-          <img src="https://img.shields.io/badge/Pros%40-gray" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <!-- BOOKKER -->
-  <table>
-    <tr>
-      <td>
-        <h3>Bookker</h3>
-        <p><strong>Analista Programador</strong></p>
-        <p>📅 Septiembre 2023 - Abril 2026</p>
-        <p>
-          <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
-          <img src="https://img.shields.io/badge/PrimeFaces-blue" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
-</div>
 ---
 
 ### 🚀 Trayectoria profesional
