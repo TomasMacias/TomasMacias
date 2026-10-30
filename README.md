@@ -75,6 +75,9 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
       <h3>Grupo Solutia</h3>
       <strong>Analista Programador</strong>
       <p>📅 Mayo 2026 - Actualidad</p>
+      <p>
+        🌐 <a href="https://tomasmacias.com" target="_blank">Visitar sitio web</a>
+      </p>
       <strong>Modernización</strong>
       <p>
         <img src="https://img.shields.io/badge/Java_25-orange?logo=openjdk&logoColor=white"/>
