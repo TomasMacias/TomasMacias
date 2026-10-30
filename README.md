@@ -61,6 +61,9 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
     <td width="33%" valign="top">
       <h3>Proyecto personal</h3>
       <strong>Desarrollador Web</strong>
+      <p>
+        🌐 <a href="https://tomasmacias.com" target="_blank">Visitar sitio web</a>
+      </p>
       <p>📅 Actualidad</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
@@ -75,9 +78,6 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
       <h3>Grupo Solutia</h3>
       <strong>Analista Programador</strong>
       <p>📅 Mayo 2026 - Actualidad</p>
-      <p>
-        🌐 <a href="https://tomasmacias.com" target="_blank">Visitar sitio web</a>
-      </p>
       <strong>Modernización</strong>
       <p>
         <img src="https://img.shields.io/badge/Java_25-orange?logo=openjdk&logoColor=white"/>
