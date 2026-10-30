@@ -1,9 +1,11 @@
 <img width="1584" height="396" alt="Banner_LinkedIn" src="https://github.com/user-attachments/assets/a2d78cc4-a93e-4438-8c08-478a41088320" />
 
 ## Hola soy Tomás
-Desarrollador Full Stack Java con experiencia en desarrollo y mantenimiento de aplicaciones web utilizando Java (8/11/17), Spring Boot, microservicios y API REST, así como en desarrollo frontend con JSF (PrimeFaces) e integración con bases de datos Oracle, MySQL y PostgreSQL.
+Desarrollador de software con experiencia en desarrollo y mantenimiento de aplicaciones web utilizando Java (8/11/17/25), Spring Boot, microservicios y API REST.
 
-Experiencia práctica en desarrollo web con React, TypeScript, Next.js, Node.js y Tailwind CSS, aplicada en formación y proyectos personales.
+Conocimientos de arquitectura hexagonal y desarrollo de pruebas unitarias con JUnit y Mockito, así como integración con bases de datos Oracle, MySQL y PostgreSQL.
+
+También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y conocimientos prácticos de React, TypeScript, Next.js, Node.js y Tailwind CSS, aplicados en formación y proyectos personales.
 
 ---
 
@@ -45,6 +47,8 @@ Experiencia práctica en desarrollo web con React, TypeScript, Next.js, Node.js 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40" alt="tailwind logo"  />
 </div>
 
@@ -55,7 +59,8 @@ Experiencia práctica en desarrollo web con React, TypeScript, Next.js, Node.js 
 | Año | Empresa | Proyecto | Tecnologías | Rol |
 | :--- | :--- | :--- | :--- | :--- |
 | actualidad | tomasmacias| Desarrollador Web Freelance | React, TypeScript, Node.js, Next.js, Tailwind | Analista programador
-| may 2026 - actualidad | Grupo Solutia| Administración pública | Java, JSP, Oracle SQL, Pros@ | Analista programador
+| otc 2026 - actualidad | Grupo Solutia| Administración pública - Modernización | Java 25, Arquitectura Hexagonal, Oracle, JUnit, Mockito, GitLab | Analista programador
+| may 2026 - oct 2026 | Grupo Solutia| Administración pública | Java, JSP, Oracle SQL, Pros@ | Analista programador
 | abr 2026 - may 2026 | Plexus Tech | Entidad bancaria | Java, Spring Boot, MongoDB, Mockito | Programador java
 | sept 2023 - abr 2026 | Bookker | Gestión y entorno laboral | Java, Spring Boot, Primefaces, PostgreSQL, MySQL |
 | feb 2022 - sept 2023 | Minsait | Administración pública | Java, JSP, Oracle SQL, Pros@ | Software Technician
