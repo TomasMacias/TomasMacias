@@ -7,18 +7,21 @@ Conocimientos de arquitectura hexagonal y desarrollo de pruebas unitarias con JU
 
 También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y conocimientos prácticos de React, TypeScript, Next.js, Node.js y Tailwind CSS, aplicados en formación y proyectos personales.
 
+<div>
+   <a href="https://www.linkedin.com/in/tomas-macias-castela-869657178/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+    </a>
+</div>
+<div>
+  <a href="mailto:hola@tomasmacias.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 ---
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-<div data-importer="socials" align="center">
-  <a href="https://tomasmacias.com">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/tomas-macias-castela-869657178/">LinkedIn</a>
-  ·
-  <a href="mailto:hola@tomasmacias.com">Email</a>
 </div>
 
 ---
