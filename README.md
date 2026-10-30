@@ -51,6 +51,7 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40" alt="tailwind logo"  />
 </div>
+
 ---
 
 ### 🚀 Trayectoria profesional
