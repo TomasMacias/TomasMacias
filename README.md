@@ -1,11 +1,12 @@
-<img width="1584" height="396" alt="Banner_LinkedIn" src="https://github.com/user-attachments/assets/a2d78cc4-a93e-4438-8c08-478a41088320" />
+<div>
+   <img width="1584" height="396" alt="Banner_LinkedIn" src="https://github.com/user-attachments/assets/a2d78cc4-a93e-4438-8c08-478a41088320" />
+</div>
+<h1>Hola soy Tomás</h1>
+<p>Desarrollador de software con experiencia en desarrollo y mantenimiento de aplicaciones web utilizando Java (8/11/17/25), Spring Boot, microservicios y API REST.</p>
 
-## Hola soy Tomás
-Desarrollador de software con experiencia en desarrollo y mantenimiento de aplicaciones web utilizando Java (8/11/17/25), Spring Boot, microservicios y API REST.
+<p>Conocimientos de arquitectura hexagonal y desarrollo de pruebas unitarias con JUnit y Mockito, así como integración con bases de datos Oracle, MySQL y PostgreSQL.</p>
 
-Conocimientos de arquitectura hexagonal y desarrollo de pruebas unitarias con JUnit y Mockito, así como integración con bases de datos Oracle, MySQL y PostgreSQL.
-
-También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y conocimientos prácticos de React, TypeScript, Next.js, Node.js y Tailwind CSS, aplicados en formación y proyectos personales.
+<p>También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y conocimientos prácticos de React, TypeScript, Next.js, Node.js y Tailwind CSS, aplicados en formación y proyectos personales.</p>
 
 <div>
    <a href="https://www.linkedin.com/in/tomas-macias-castela-869657178/" target="_blank">
@@ -26,7 +27,7 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
 
 ---
 
-### 💻 Stack
+<h2>💻 Stack</h2>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -57,7 +58,7 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
 
 ---
 
-### 🚀 Trayectoria profesional
+<h2>🚀 Trayectoria profesional</h2>
 <table>
   <tr>
     <!-- PROYECTO PERSONAL -->
@@ -84,7 +85,7 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
       <strong>Modernización</strong>
       <p>
         <img src="https://img.shields.io/badge/Java_25-orange?logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle_SQL-red"?logo=oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/JUnit_5-green"/>
         <img src="https://img.shields.io/badge/Mockito-78A641"/>
         <img src="https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white"/>
