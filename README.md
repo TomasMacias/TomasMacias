@@ -104,7 +104,9 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
       </p>
     </td>
-  </tr>
+  </tr>  
+</table>
+<table>
   <tr>
     <!-- MINSAIT -->
     <td width="33%" valign="top">
