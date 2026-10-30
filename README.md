@@ -58,10 +58,10 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
 
 | Año | Empresa | Proyecto | Tecnologías | Rol |
 | :--- | :--- | :--- | :--- | :--- |
-| actualidad | tomasmacias| Desarrollador Web Freelance | React, TypeScript, Node.js, Next.js, Tailwind | Analista programador
-| otc 2026 - actualidad | Grupo Solutia| Administración pública - Modernización | Java 25, Arquitectura Hexagonal, Oracle, JUnit, Mockito, GitLab | Analista programador
-| may 2026 - oct 2026 | Grupo Solutia| Administración pública | Java, JSP, Oracle SQL, Pros@ | Analista programador
-| abr 2026 - may 2026 | Plexus Tech | Entidad bancaria | Java, Spring Boot, MongoDB, Mockito | Programador java
-| sept 2023 - abr 2026 | Bookker | Gestión y entorno laboral | Java, Spring Boot, Primefaces, PostgreSQL, MySQL |
+| actualidad | tomasmacias| Desarrollador Web Freelance | React, TypeScript, Node.js, Next.js, Tailwind | Desarrollador Web
+| otc 2026 - actualidad | Grupo Solutia| Administración pública - Modernización | Java 25, Arquitectura Hexagonal, Oracle, JUnit, Mockito, GitLab | Analista Programador
+| may 2026 - oct 2026 | Grupo Solutia| Administración pública | Java, JSP, Oracle SQL, Pros@ | Analista Programador
+| abr 2026 - may 2026 | Plexus Tech | Entidad bancaria | Java, Spring Boot, MongoDB, Mockito | Programador Java
+| sept 2023 - abr 2026 | Bookker | Gestión y entorno laboral | Java, Spring Boot, Primefaces, PostgreSQL, MySQL | Desarrollador de Software
 | feb 2022 - sept 2023 | Minsait | Administración pública | Java, JSP, Oracle SQL, Pros@ | Software Technician
-| ene 2021 - feb 2022 | NTT DATA Europe & LATAM | Sector energético | Java, Spring Boot, Angular 8, Mockito, Oracle SQL, TypeScript |
+| ene 2021 - feb 2022 | NTT DATA Europe & LATAM | Sector energético | Java, Spring Boot, Angular 8, Mockito, Oracle SQL, TypeScript | Centers Junior
