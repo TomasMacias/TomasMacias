@@ -57,6 +57,19 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
 ### 🚀 Trayectoria profesional
 <table>
   <tr>
+    <!-- PROYECTO PERSONAL -->
+    <td width="33%" valign="top">
+      <h3>Proyecto personal</h3>
+      <strong>Desarrollador Web</strong>
+      <p>📅 Actualidad</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+      </p>
+    </td>
     <!-- GRUPO SOLUTIA -->
     <td width="33%" valign="top">
       <h3>Grupo Solutia</h3>
@@ -91,6 +104,10 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
         <img src="https://img.shields.io/badge/Mockito-78A641"/>
       </p>
     </td>
+  </tr>  
+</table>
+<table>
+  <tr>
     <!-- BOOKKER -->
     <td width="33%" valign="top">
       <h3>Bookker</h3>
@@ -104,10 +121,6 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
       </p>
     </td>
-  </tr>  
-</table>
-<table>
-  <tr>
     <!-- MINSAIT -->
     <td width="33%" valign="top">
       <h3>Minsait</h3>
@@ -133,19 +146,6 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
         <img src="https://img.shields.io/badge/Oracle_SQL-red"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
       </p>
-    </td>
-    <!-- PROYECTO PERSONAL -->
-    <td width="33%" valign="top">
-      <h3>Proyecto personal</h3>
-      <strong>Desarrollador Web</strong>
-      <p>📅 Actualidad</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
-      </p>
-    </td>
+    </td>    
   </tr>
 </table>
