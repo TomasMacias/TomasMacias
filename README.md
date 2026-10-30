@@ -61,7 +61,6 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
       <h3>Grupo Solutia</h3>
       <strong>Analista Programador</strong>
       <p>📅 Mayo 2026 - Actualidad</p>
-
       <strong>Modernización</strong>
       <p>
         <img src="https://img.shields.io/badge/Java_25-orange?logo=openjdk&logoColor=white"/>
@@ -70,7 +69,6 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
         <img src="https://img.shields.io/badge/Mockito-78A641"/>
         <img src="https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white"/>
       </p>
-
       <strong>Etapa anterior</strong>
       <p>📅 Mayo - Octubre 2026</p>
       <p>
