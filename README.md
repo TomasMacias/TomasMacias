@@ -54,6 +54,108 @@ También cuento con experiencia en desarrollo frontend con JSF (PrimeFaces) y co
 
 ---
 
+<table>
+  <tr>
+    <!-- GRUPO SOLUTIA -->
+    <td width="33%" valign="top">
+      <h3>Grupo Solutia</h3>
+      <strong>Analista Programador</strong>
+      <p>📅 Mayo 2026 - Actualidad</p>
+
+      <strong>Modernización</strong>
+      <p>
+        <img src="https://img.shields.io/badge/Java_25-orange?logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JUnit_5-green"/>
+        <img src="https://img.shields.io/badge/Mockito-78A641"/>
+        <img src="https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white"/>
+      </p>
+
+      <strong>Etapa anterior</strong>
+      <p>📅 Mayo - Octubre 2026</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSP-blue"/>
+        <img src="https://img.shields.io/badge/Oracle_SQL-red"/>
+        <img src="https://img.shields.io/badge/Pros%40-gray"/>
+      </p>
+    </td>
+
+    <!-- PLEXUS TECH -->
+    <td width="33%" valign="top">
+      <h3>Plexus Tech</h3>
+      <strong>Programador Java</strong>
+      <p>📅 Abril 2026 - Mayo 2026</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mockito-78A641"/>
+      </p>
+    </td>
+
+    <!-- BOOKKER -->
+    <td width="33%" valign="top">
+      <h3>Bookker</h3>
+      <strong>Analista Programador</strong>
+      <p>📅 Septiembre 2023 - Abril 2026</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PrimeFaces-blue"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- MINSAIT -->
+    <td width="33%" valign="top">
+      <h3>Minsait</h3>
+      <strong>Software Technician</strong>
+      <p>📅 Febrero 2022 - Septiembre 2023</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSP-blue"/>
+        <img src="https://img.shields.io/badge/Oracle_SQL-red"/>
+        <img src="https://img.shields.io/badge/Pros%40-gray"/>
+      </p>
+    </td>
+
+    <!-- NTT DATA -->
+    <td width="33%" valign="top">
+      <h3>NTT DATA</h3>
+      <strong>Desarrollador de software</strong>
+      <p>📅 Enero 2021 - Febrero 2022</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mockito-78A641"/>
+        <img src="https://img.shields.io/badge/Oracle_SQL-red"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+
+    <!-- PROYECTO PERSONAL -->
+    <td width="33%" valign="top">
+      <h3>Proyecto personal</h3>
+      <strong>Desarrollador Web</strong>
+      <p>📅 Actualidad</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 Trayectoria profesional
 
 | Año | Empresa | Proyecto | Tecnologías | Rol |
