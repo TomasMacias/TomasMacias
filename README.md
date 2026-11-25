@@ -81,7 +81,7 @@
     <td width="33%" valign="top">
       <h3>Grupo Solutia</h3>
       <strong>Analista Programador</strong>
-      <p>📅 Mayo 2026 - Actualidad</p>
+      <p>📅 Octubre 2026 - Actualidad</p>
       <strong>Modernización</strong>
       <p>
         <img src="https://img.shields.io/badge/Java_25-orange?logo=openjdk&logoColor=white"/>
